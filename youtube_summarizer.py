@@ -32,7 +32,7 @@ def get_transcript(video_id: str) -> str:
     params = {
         "engine": "youtube_transcripts",
         "video_id": video_id,
-        "api_key": "ey1hoRoLxjfJxXN5VYVwZLuU"
+        "api_key": "[YOUR API KEY HERE]"
     }
 
     try:
